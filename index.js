@@ -10,7 +10,7 @@ require('dotenv').config()
 
 
 
-const routes = require('./routes')
+const routes = require('./src/routes')
 
 
 
